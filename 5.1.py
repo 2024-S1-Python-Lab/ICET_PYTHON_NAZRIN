@@ -1,3 +1,4 @@
+#co5 first qstn
 filename=input("Enter file name:")
 try:
     with open(filename,'r')as file1:
